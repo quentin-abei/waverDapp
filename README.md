@@ -1,5 +1,5 @@
 ## Running on Goerli testnet
 
-![](images/home.png)
+![](./src/images/home.png);
 
 ## Try it out
