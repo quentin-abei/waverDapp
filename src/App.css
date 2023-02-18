@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 5rem;
+  background: #160f48;
+  color: #fff;
+}
+.logo{
+  padding: 10px;
+  margin-left: 10px;
+}
+.connect_button {
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+}
+.connect {
+  border: none;
+  padding: 10px;
+  border-radius: 15px;
+  background: green;
+}
+.main {
+  min-height: 100vh;
+  background: #b7afaf;
+  overflow: hidden;
+}
+.main_input{
+  min-height: 30rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  
+}
+.main_form{
+  display: flex;
+  flex-direction: column;
+  background: #03032b;
+  border-radius: 15px;
+  margin-right: 250px;
+}
+.main_text{
+  margin-left: 200px;
+  font-size: xx-large;
+  display: flex;
+}
+.main_holder {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.main_button{
+  border: none;
+  padding: 10px;
+  margin-top: 10px;
+  background: green;
+  border-radius: 15px;
+}
+.main_waves{
+  background: #161763;
+  margin-top: 0px;
+  color: #fff;
+}
+.card{
+  margin-top: 10px;
+}
+.waves_info{
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.waves_text {
+  margin: 10px;
+  padding: 10px;
+  max-width: 80%;
+}
